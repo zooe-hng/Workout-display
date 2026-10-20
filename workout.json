@@ -1,18 +1,14 @@
 {
   "date": "2026-10-20",
-  "type": "Gym",
-  "title": "Triathlete Strength 30min",
-  "duration_min": 30,
-  "exercises": [
-    {"name": "Warm-up: hip flexor stretch, glute bridges", "sets": "4 min"},
-    {"name": "A1 DB single-leg RDL", "sets": "3x8/side"},
-    {"name": "A2 Side plank", "sets": "3x30s/side"},
-    {"name": "B1 DB reverse lunge", "sets": "3x8/side"},
-    {"name": "B2 DB Y-T-W raise", "sets": "3x6 each"},
-    {"name": "C1 Glute bridge (DB on hips)", "sets": "3x12"},
-    {"name": "C2 V-sit hold", "sets": "3x25s"},
-    {"name": "D Lat pulldown (swim pull)", "sets": "2x12"},
-    {"name": "Cool-down: hip flexor stretch", "sets": "2 min"}
-  ],
-  "note": "Core, glutes, shoulders, hips. Rest 30-45s between supersets. Controlled reps."
+  "kind": "swim",
+  "title": "Sprint Free",
+  "subtitle": "2100m | 60 min",
+  "sections": [
+    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 drill @15s", "4x50 build @15s"]},
+    {"type": "main", "title": "Sprint - 8x25", "lines": ["All-out @30s rest"]},
+    {"type": "main", "title": "Fast - 6x50", "lines": ["Fast, hold form @40s"]},
+    {"type": "main", "title": "Kick - 4x50", "lines": ["Board, strong @20s"]},
+    {"type": "main", "title": "Main - 4x75", "lines": ["Descend 1-4 @45s"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["300 easy mix"]}
+  ]
 }
