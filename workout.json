@@ -1,17 +1,18 @@
 {
   "date": "2026-10-20",
   "type": "Gym",
-  "title": "Full Body 30min",
+  "title": "Triathlete Strength 30min",
   "duration_min": 30,
   "exercises": [
-    {"name": "Warm-up: KB halos, bodyweight squats", "sets": "4 min"},
-    {"name": "A1 Goblet squat", "sets": "3x10"},
-    {"name": "A2 DB row", "sets": "3x10/side"},
-    {"name": "B1 DB Romanian DL", "sets": "3x10"},
-    {"name": "B2 DB shoulder press", "sets": "3x10"},
-    {"name": "C1 Chest press machine", "sets": "2x12"},
-    {"name": "C2 Lat pulldown", "sets": "2x12"},
-    {"name": "Finisher: KB suitcase carry", "sets": "2x40s/side"}
+    {"name": "Warm-up: hip flexor stretch, glute bridges", "sets": "4 min"},
+    {"name": "A1 DB single-leg RDL", "sets": "3x8/side"},
+    {"name": "A2 Side plank", "sets": "3x30s/side"},
+    {"name": "B1 DB reverse lunge", "sets": "3x8/side"},
+    {"name": "B2 DB Y-T-W raise", "sets": "3x6 each"},
+    {"name": "C1 Glute bridge (DB on hips)", "sets": "3x12"},
+    {"name": "C2 V-sit hold", "sets": "3x25s"},
+    {"name": "D Lat pulldown (swim pull)", "sets": "2x12"},
+    {"name": "Cool-down: hip flexor stretch", "sets": "2 min"}
   ],
-  "note": "Supersets: A1/A2 back-to-back, rest 45s. Moderate weight, leave 2 reps in reserve."
+  "note": "Core, glutes, shoulders, hips. Rest 30-45s between supersets. Controlled reps."
 }
