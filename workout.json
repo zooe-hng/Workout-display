@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-20",
+  "type": "Gym",
+  "title": "Core + Full Body",
+  "duration_min": 40,
+  "exercises": [
+    {"name": "KB Goblet Squat", "sets": "3x10"},
+    {"name": "DB Bench Press", "sets": "3x10"},
+    {"name": "Plank", "sets": "3x45s"},
+    {"name": "DB Renegade Row", "sets": "3x8/side"},
+    {"name": "Hanging Knee Raise", "sets": "3x12"},
+    {"name": "Russian Twist", "sets": "3x20"}
+  ],
+  "note": "Test workout. Rest 60s between sets."
+}
