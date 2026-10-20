@@ -1,33 +1,15 @@
 {
   "date": "2026-10-20",
-  "type": "Gym",
-  "title": "KB Core 20min",
-  "duration_min": 20,
+  "type": "Run",
+  "title": "5k Pace 45min",
+  "duration_min": 45,
   "exercises": [
-    {
-      "name": "Warm-up: halos + cat-cow",
-      "sets": "3 min"
-    },
-    {
-      "name": "Suitcase carry",
-      "sets": "3 rds: 40s on/20s off"
-    },
-    {
-      "name": "Russian twist",
-      "sets": "3 rds: 40s on/20s off"
-    },
-    {
-      "name": "Goblet dead bug",
-      "sets": "3 rds: 40s on/20s off"
-    },
-    {
-      "name": "Windmill (alt sides)",
-      "sets": "3 rds: 40s on/20s off"
-    },
-    {
-      "name": "Cool-down: hip + spine",
-      "sets": "3 min"
-    }
+    {"name": "Easy jog", "sets": "8 min @10:30-11:00/mi"},
+    {"name": "Strides", "sets": "2x20s @8:30/mi, walk 40s"},
+    {"name": "5k pace reps", "sets": "4x5 min @9:39/mi"},
+    {"name": "Recovery", "sets": "2 min easy jog between"},
+    {"name": "Easy jog", "sets": "7 min"},
+    {"name": "Walk", "sets": "2 min"}
   ],
-  "note": "Rest 30s between rounds. Light-moderate bell, slow and controlled."
+  "note": "Goal: sub-30 5k (9:39/mi). Start rep 1 conservative."
 }
