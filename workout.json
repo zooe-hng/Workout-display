@@ -1,15 +1,15 @@
 {
   "date": "2026-10-20",
-  "type": "Gym",
-  "title": "Core + Full Body",
+  "type": "Swim",
+  "title": "Pool Endurance 1500m",
   "duration_min": 40,
   "exercises": [
-    {"name": "KB Goblet Squat", "sets": "3x10"},
-    {"name": "DB Bench Press", "sets": "3x10"},
-    {"name": "Plank", "sets": "3x45s"},
-    {"name": "DB Renegade Row", "sets": "3x8/side"},
-    {"name": "Hanging Knee Raise", "sets": "3x12"},
-    {"name": "Russian Twist", "sets": "3x20"}
+    {"name": "Warm-up free", "sets": "200 easy"},
+    {"name": "Drill: catch-up", "sets": "4x50 @15s"},
+    {"name": "Main set free", "sets": "6x100 @20s"},
+    {"name": "Pull (buoy)", "sets": "200 steady"},
+    {"name": "Kick (board)", "sets": "4x50 @15s"},
+    {"name": "Cool-down", "sets": "100 easy"}
   ],
-  "note": "Test workout. Rest 60s between sets."
+  "note": "Main set: hold even pace, last 100 strongest."
 }
