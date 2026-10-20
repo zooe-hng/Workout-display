@@ -1,14 +1,14 @@
 {
   "date": "2026-10-20",
   "kind": "swim",
-  "title": "Sprint Free",
-  "subtitle": "2100m | 60 min",
+  "title": "800 Prep",
+  "subtitle": "2800m | 60 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 drill @15s", "4x50 build @15s"]},
-    {"type": "main", "title": "Sprint - 8x25", "lines": ["All-out @30s rest"]},
-    {"type": "main", "title": "Fast - 6x50", "lines": ["Fast, hold form @40s"]},
-    {"type": "main", "title": "Kick - 4x50", "lines": ["Board, strong @20s"]},
-    {"type": "main", "title": "Main - 4x75", "lines": ["Descend 1-4 @45s"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["300 easy mix"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 drill @1:10"]},
+    {"type": "main", "title": "Aerobic 4x200", "lines": ["Hold pace @3:50"]},
+    {"type": "main", "title": "Pace - 6x100", "lines": ["800 pace @1:50"]},
+    {"type": "main", "title": "Kick - 4x50", "lines": ["Board, steady @1:10"]},
+    {"type": "main", "title": "Race - 400", "lines": ["Steady, even splits", "800 goal pace"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["200 easy mix"]}
   ]
 }
