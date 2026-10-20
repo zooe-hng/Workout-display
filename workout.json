@@ -1,13 +1,10 @@
 {
   "date": "2026-10-20",
   "kind": "gym",
-  "title": "Vinyasa Flow",
-  "subtitle": "20 min",
+  "title": "Full Body Workout",
+  "subtitle": "5 sets",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Cat-cow, child's pose"]},
-    {"type": "main", "title": "Sun Sal - 3x", "lines": ["Mountain to fold", "Plank, chaturanga", "Up dog, down dog"]},
-    {"type": "main", "title": "Standing Flow", "lines": ["Warrior I-II @5br", "Triangle @5br/side"]},
-    {"type": "main", "title": "Hips", "lines": ["Pigeon @1 min/side"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Twist @30s/side", "Savasana @2 min"]}
+    {"type": "main", "title": "Circuit - 5x", "lines": ["Thruster @30s", "Climber push-up @30s", "Lunge @30s", "Row @30s", "Plank rotation @40s"]},
+    {"type": "main", "title": "Rest", "lines": ["30s between moves", "1 min between sets"]}
   ]
 }
