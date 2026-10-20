@@ -1,14 +1,13 @@
 {
   "date": "2026-10-20",
   "kind": "gym",
-  "title": "Core + Arms",
-  "subtitle": "60 min",
+  "title": "Vinyasa Flow",
+  "subtitle": "20 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["6 min mobility"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["Dead bug @10/side", "Band Pallof @10/side", "Side plank @30s/side"]},
-    {"type": "main", "title": "B - 4 rounds", "lines": ["DB curl @10", "Band tricep ext @15", "DB hammer curl @10"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["DB Russian twist @20", "Hollow hold @30s"]},
-    {"type": "main", "title": "D - 3 rounds", "lines": ["DB skull crusher @12", "Band face pull @15"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["7 min stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Cat-cow, child's pose"]},
+    {"type": "main", "title": "Sun Sal - 3x", "lines": ["Mountain to fold", "Plank, chaturanga", "Up dog, down dog"]},
+    {"type": "main", "title": "Standing Flow", "lines": ["Warrior I-II @5br", "Triangle @5br/side"]},
+    {"type": "main", "title": "Hips", "lines": ["Pigeon @1 min/side"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Twist @30s/side", "Savasana @2 min"]}
   ]
 }
