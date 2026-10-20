@@ -1,15 +1,33 @@
 {
   "date": "2026-10-20",
-  "type": "Swim",
-  "title": "Pool Endurance 1500m",
-  "duration_min": 40,
+  "type": "Gym",
+  "title": "KB Core 20min",
+  "duration_min": 20,
   "exercises": [
-    {"name": "Warm-up free", "sets": "200 easy"},
-    {"name": "Drill: catch-up", "sets": "4x50 @15s"},
-    {"name": "Main set free", "sets": "6x100 @20s"},
-    {"name": "Pull (buoy)", "sets": "200 steady"},
-    {"name": "Kick (board)", "sets": "4x50 @15s"},
-    {"name": "Cool-down", "sets": "100 easy"}
+    {
+      "name": "Warm-up: halos + cat-cow",
+      "sets": "3 min"
+    },
+    {
+      "name": "Suitcase carry",
+      "sets": "3 rds: 40s on/20s off"
+    },
+    {
+      "name": "Russian twist",
+      "sets": "3 rds: 40s on/20s off"
+    },
+    {
+      "name": "Goblet dead bug",
+      "sets": "3 rds: 40s on/20s off"
+    },
+    {
+      "name": "Windmill (alt sides)",
+      "sets": "3 rds: 40s on/20s off"
+    },
+    {
+      "name": "Cool-down: hip + spine",
+      "sets": "3 min"
+    }
   ],
-  "note": "Main set: hold even pace, last 100 strongest."
+  "note": "Rest 30s between rounds. Light-moderate bell, slow and controlled."
 }
