@@ -1,12 +1,14 @@
 {
   "date": "2026-10-20",
-  "kind": "run",
-  "title": "5K Pace 28:00",
-  "subtitle": "4.3 miles | 45 mins",
+  "kind": "gym",
+  "title": "Core + Arms",
+  "subtitle": "60 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["8 min", "@11:30-13:00/mi"]},
-    {"type": "main", "title": "Strides", "lines": ["4x20s @8:00/mi"], "rest": "40s walk"},
-    {"type": "main", "title": "5K Pace Reps", "lines": ["4x5min @9:00/mi"], "rest": "2min easy jog"},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["7 min", "@12:30-14:00/mi"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["6 min mobility"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["Dead bug @10/side", "Band Pallof @10/side", "Side plank @30s/side"]},
+    {"type": "main", "title": "B - 4 rounds", "lines": ["DB curl @10", "Band tricep ext @15", "DB hammer curl @10"]},
+    {"type": "main", "title": "C - 3 rounds", "lines": ["DB Russian twist @20", "Hollow hold @30s"]},
+    {"type": "main", "title": "D - 3 rounds", "lines": ["DB skull crusher @12", "Band face pull @15"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["7 min stretch"]}
   ]
 }
