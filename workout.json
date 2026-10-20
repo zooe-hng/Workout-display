@@ -1,14 +1,12 @@
 {
   "date": "2026-10-20",
-  "kind": "swim",
-  "title": "800 Prep",
-  "subtitle": "2800m | 60 min",
+  "kind": "run",
+  "title": "5K Pace 28:00",
+  "subtitle": "4.3 miles | 45 mins",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 drill @1:10"]},
-    {"type": "main", "title": "Aerobic 4x200", "lines": ["Hold pace @3:50"]},
-    {"type": "main", "title": "Pace - 6x100", "lines": ["800 pace @1:50"]},
-    {"type": "main", "title": "Kick - 4x50", "lines": ["Board, steady @1:10"]},
-    {"type": "main", "title": "Race - 400", "lines": ["Steady, even splits", "800 goal pace"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["200 easy mix"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["8 min", "@11:30-13:00/mi"]},
+    {"type": "main", "title": "Strides", "lines": ["4x20s @8:00/mi"], "rest": "40s walk"},
+    {"type": "main", "title": "5K Pace Reps", "lines": ["4x5min @9:00/mi"], "rest": "2min easy jog"},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["7 min", "@12:30-14:00/mi"]}
   ]
 }
