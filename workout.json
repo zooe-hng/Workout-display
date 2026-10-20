@@ -1,15 +1,17 @@
 {
   "date": "2026-10-20",
-  "type": "Run",
-  "title": "5k Pace 45min",
-  "duration_min": 45,
+  "type": "Gym",
+  "title": "Full Body 30min",
+  "duration_min": 30,
   "exercises": [
-    {"name": "Easy jog", "sets": "8 min @10:30-11:00/mi"},
-    {"name": "Strides", "sets": "2x20s @8:30/mi, walk 40s"},
-    {"name": "5k pace reps", "sets": "4x5 min @9:39/mi"},
-    {"name": "Recovery", "sets": "2 min easy jog between"},
-    {"name": "Easy jog", "sets": "7 min"},
-    {"name": "Walk", "sets": "2 min"}
+    {"name": "Warm-up: KB halos, bodyweight squats", "sets": "4 min"},
+    {"name": "A1 Goblet squat", "sets": "3x10"},
+    {"name": "A2 DB row", "sets": "3x10/side"},
+    {"name": "B1 DB Romanian DL", "sets": "3x10"},
+    {"name": "B2 DB shoulder press", "sets": "3x10"},
+    {"name": "C1 Chest press machine", "sets": "2x12"},
+    {"name": "C2 Lat pulldown", "sets": "2x12"},
+    {"name": "Finisher: KB suitcase carry", "sets": "2x40s/side"}
   ],
-  "note": "Goal: sub-30 5k (9:39/mi). Start rep 1 conservative."
+  "note": "Supersets: A1/A2 back-to-back, rest 45s. Moderate weight, leave 2 reps in reserve."
 }
