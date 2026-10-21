@@ -1,13 +1,12 @@
 {
   "date": "2026-10-20",
-  "kind": "swim",
-  "title": "Pool Day Swim",
-  "subtitle": "1,300 yd",
+  "kind": "gym",
+  "title": "Arm Burn",
+  "subtitle": "10 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["200 easy, any stroke"]},
-    {"type": "main", "title": "Drills", "lines": ["4x50 catch-up drill", "20s rest"]},
-    {"type": "main", "title": "Main Set", "lines": ["6x100 steady", "20s rest"]},
-    {"type": "main", "title": "Kick", "lines": ["4x50 kickboard"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["100 easy"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Arm circles @30s", "Light curl @10"]},
+    {"type": "main", "title": "A - 2 rounds", "lines": ["Bicep curl @15", "Overhead tri ext @12", "Lateral raise @12"]},
+    {"type": "main", "title": "B - 2 rounds", "lines": ["Hammer curl @12", "Kickback @12/side", "Shoulder press @12"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Tricep stretch @30s", "Bicep stretch @30s"]}
   ]
 }
