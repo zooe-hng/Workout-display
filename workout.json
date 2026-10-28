@@ -1,14 +1,12 @@
 {
   "date": "2026-10-27",
   "kind": "swim",
-  "title": "Free Sprints",
-  "subtitle": "2450m | 60 min",
+  "title": "400 IM Prep",
+  "subtitle": "1400m | 30 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 build @1:05", "4x50 kick @1:15"]},
-    {"type": "main", "title": "A - 8x25", "lines": ["Sprint all-out @1:00"], "rest": "~40s rest"},
-    {"type": "main", "title": "B - 6x50", "lines": ["Fast free @1:10"]},
-    {"type": "main", "title": "C - 4x100", "lines": ["200 easy to start", "Race pace @2:00"]},
-    {"type": "main", "title": "D - 10x25", "lines": ["Max speed @1:00"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["300 easy mix"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["200 easy free", "4x50 IM drill @1:10"]},
+    {"type": "main", "title": "A - 4x100 IM", "lines": ["25 each, IM order", "Smooth pace @2:00"]},
+    {"type": "main", "title": "B - 2x200 IM", "lines": ["50 each stroke", "Controlled @4:00", "Strong back and breast"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["200 easy choice"]}
   ]
 }
