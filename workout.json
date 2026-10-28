@@ -1,12 +1,12 @@
 {
   "date": "2026-10-27",
-  "kind": "swim",
-  "title": "400 IM Prep",
-  "subtitle": "1400m | 30 min",
+  "kind": "gym",
+  "title": "KB Power",
+  "subtitle": "25 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["200 easy free", "4x50 IM drill @1:10"]},
-    {"type": "main", "title": "A - 4x100 IM", "lines": ["25 each, IM order", "Smooth pace @2:00"]},
-    {"type": "main", "title": "B - 2x200 IM", "lines": ["50 each stroke", "Controlled @4:00", "Strong back and breast"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["200 easy choice"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Halo @8/dir", "Goblet squat @10"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["Heavy swing @15", "Clean @5/side", "Press @5/side"], "rest": "60s rest"},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["Jump squat @8", "Fast swing @12"], "rest": "45s rest"},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Hip + chest stretch"]}
   ]
 }
