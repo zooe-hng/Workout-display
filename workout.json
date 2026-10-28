@@ -1,12 +1,13 @@
 {
   "date": "2026-10-27",
   "kind": "gym",
-  "title": "KB Power",
-  "subtitle": "25 min",
+  "title": "Upper Strength",
+  "subtitle": "30 min | intervals",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Halo @8/dir", "Goblet squat @10"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["Heavy swing @15", "Clean @5/side", "Press @5/side"], "rest": "60s rest"},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Jump squat @8", "Fast swing @12"], "rest": "45s rest"},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Hip + chest stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Row @3min easy"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["DB bench @8", "Lat pulldown @10"], "rest": "60s rest"},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["DB shoulder press @8", "1-arm row @8/side"], "rest": "45s rest"},
+    {"type": "main", "title": "C - 2 rounds", "lines": ["Push-up @max", "Hammer curl @10"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Chest + lat stretch"]}
   ]
 }
