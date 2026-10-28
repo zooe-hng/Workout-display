@@ -1,12 +1,13 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-27",
   "kind": "gym",
-  "title": "Arm Burn",
-  "subtitle": "10 min",
+  "title": "HIIT Burner",
+  "subtitle": "45 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Arm circles @30s", "Light curl @10"]},
-    {"type": "main", "title": "A - 2 rounds", "lines": ["Bicep curl @15", "Overhead tri ext @12", "Lateral raise @12"]},
-    {"type": "main", "title": "B - 2 rounds", "lines": ["Hammer curl @12", "Kickback @12/side", "Shoulder press @12"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Tricep stretch @30s", "Bicep stretch @30s"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["3 min row + inchworm"]},
+    {"type": "main", "title": "A - 3x 40s/20s", "lines": ["KB swing", "DB thruster", "Renegade row", "Mountain climber"]},
+    {"type": "main", "title": "B - 6x 2:00", "lines": ["30s all-out row", "90s easy row"]},
+    {"type": "main", "title": "C - 3x 40s/20s", "lines": ["V-sit", "Plank", "Russian twist"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min walk + stretch"]}
   ]
 }
