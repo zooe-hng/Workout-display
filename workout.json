@@ -1,13 +1,14 @@
 {
   "date": "2026-10-27",
-  "kind": "gym",
-  "title": "HIIT Burner",
-  "subtitle": "45 min",
+  "kind": "swim",
+  "title": "Free Sprints",
+  "subtitle": "2450m | 60 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["3 min row + inchworm"]},
-    {"type": "main", "title": "A - 3x 40s/20s", "lines": ["KB swing", "DB thruster", "Renegade row", "Mountain climber"]},
-    {"type": "main", "title": "B - 6x 2:00", "lines": ["30s all-out row", "90s easy row"]},
-    {"type": "main", "title": "C - 3x 40s/20s", "lines": ["V-sit", "Plank", "Russian twist"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min walk + stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["400 easy free", "4x50 build @1:05", "4x50 kick @1:15"]},
+    {"type": "main", "title": "A - 8x25", "lines": ["Sprint all-out @1:00"], "rest": "~40s rest"},
+    {"type": "main", "title": "B - 6x50", "lines": ["Fast free @1:10"]},
+    {"type": "main", "title": "C - 4x100", "lines": ["200 easy to start", "Race pace @2:00"]},
+    {"type": "main", "title": "D - 10x25", "lines": ["Max speed @1:00"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["300 easy mix"]}
   ]
 }
