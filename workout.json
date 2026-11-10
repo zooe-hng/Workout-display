@@ -1,13 +1,12 @@
 {
   "date": "2026-11-10",
   "kind": "gym",
-  "title": "Barbell Upper",
-  "subtitle": "30 min",
+  "title": "Barbell Supersets",
+  "subtitle": "45+ min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Row @4min easy", "Empty bar press @10"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["Bench press @8", "Bent-over row @8"], "rest": "75s rest"},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Overhead press @6", "Barbell curl @10"], "rest": "60s rest"},
-    {"type": "main", "title": "C - 2 rounds", "lines": ["Skull crusher @10", "Barbell shrug @12"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Chest + lat stretch"]}
+    {"type": "main", "title": "How It Works", "lines": ["12 supersets, 2x each", "A: 40s work / 10s rest", "B: 30s work / 10s rest", "12.5kg bar upper, 20kg legs"]},
+    {"type": "main", "title": "Circuit 1 - Upper", "lines": ["BB shoulder press + plate fly jack", "BB deadlift-row + plate rev fly", "BB upright row + plate front raise", "BB bicep curl + plate kickback", "BB tricep ext + seated lat raise", "BB V chest press + blast-off push-up"]},
+    {"type": "main", "title": "Circuit 2 - Legs", "lines": ["BB back squat + calf raise", "BB alt fwd lunge + jump lunge", "BB sumo stiff leg deadlift + lat lunge taps", "BB curtsy lunge + lat squat walk", "BB squat clean + high knee run", "BB front rack lunge + burpee donkey kick"]},
+    {"type": "main", "title": "Bonus Abs", "lines": ["Plank hand walk", "Plate woodchop", "Plate scissor legs", "Plate bent knee crunch"]}
   ]
 }
