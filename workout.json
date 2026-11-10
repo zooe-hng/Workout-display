@@ -1,13 +1,9 @@
 {
   "date": "2026-11-10",
-  "kind": "gym",
-  "title": "Tri Strength",
-  "subtitle": "45 min",
+  "kind": "test",
+  "title": "Test",
+  "subtitle": "test",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Row @3min + mobility"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["Lat pulldown @10", "KB RDL @8"], "rest": "45s rest"},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Split squat @8/leg", "1-arm row @10/side", "DB shoulder press @8"], "rest": "45s rest"},
-    {"type": "main", "title": "C - 2 rounds", "lines": ["Side plank @30s/side", "Dead bug @10/side", "KB carry @30s/side"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Lat/hip/quad stretch"]}
+    {"type": "main", "title": "Test", "lines": ["this is a test"]}
   ]
 }
