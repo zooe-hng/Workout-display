@@ -1,9 +1,13 @@
 {
   "date": "2026-11-10",
-  "kind": "test",
-  "title": "Test",
-  "subtitle": "test",
+  "kind": "swim",
+  "title": "IM Swim",
+  "subtitle": "2000m | 50 min",
   "sections": [
-    {"type": "main", "title": "Test", "lines": ["this is a test"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["300 free easy", "4x50 drill @1:15"]},
+    {"type": "main", "title": "Main - 4x100", "lines": ["IM 25 each @2:30", "Count strokes"]},
+    {"type": "main", "title": "Stroke - 8x50", "lines": ["Fly/Back/Breast/Free", "2 of each @1:15"]},
+    {"type": "main", "title": "Main - 2x200", "lines": ["IM @5:00", "Smooth, hold stroke"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["300 easy choice"]}
   ]
 }
