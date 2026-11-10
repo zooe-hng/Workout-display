@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-11-10",
   "kind": "gym",
-  "title": "Upper Strength",
-  "subtitle": "30 min | intervals",
+  "title": "Barbell Upper",
+  "subtitle": "30 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Row @3min easy"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["DB bench @8", "Lat pulldown @10"], "rest": "60s rest"},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["DB shoulder press @8", "1-arm row @8/side"], "rest": "45s rest"},
-    {"type": "main", "title": "C - 2 rounds", "lines": ["Push-up @max", "Hammer curl @10"]},
+    {"type": "warmup", "title": "Warm Up", "lines": ["Row @4min easy", "Empty bar press @10"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["Bench press @8", "Bent-over row @8"], "rest": "75s rest"},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["Overhead press @6", "Barbell curl @10"], "rest": "60s rest"},
+    {"type": "main", "title": "C - 2 rounds", "lines": ["Skull crusher @10", "Barbell shrug @12"]},
     {"type": "cooldown", "title": "Cool Down", "lines": ["Chest + lat stretch"]}
   ]
 }
