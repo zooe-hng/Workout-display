@@ -1,13 +1,14 @@
 {
   "date": "2026-11-20",
   "kind": "gym",
-  "title": "Arm Day",
-  "subtitle": "40 min",
+  "title": "Lean Arms",
+  "subtitle": "45 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @5min", "Arm circles @20"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["DB curl @10", "Skull crusher @10"]},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Hammer curl @12", "Overhead ext @12"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["Lateral raise @15", "Bench dip @to failure"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Arm + chest stretch"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @5min", "Band pull-apart @20", "Push-up @10"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["Incline DB curl @10", "Close-grip push-up @12"]},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["Hammer curl @10", "Overhead DB ext @12"]},
+    {"type": "main", "title": "C - 3 rounds", "lines": ["KB curl-press @8/side", "Bench dip @15"]},
+    {"type": "main", "title": "Finisher - 2x", "lines": ["DB 21s curls @21", "Pushdown @20"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["Bicep wall stretch", "Tricep stretch @30s"]}
   ]
 }
