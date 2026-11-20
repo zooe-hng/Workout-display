@@ -1,14 +1,13 @@
 {
   "date": "2026-11-20",
   "kind": "gym",
-  "title": "Lean Arms",
-  "subtitle": "45 min",
+  "title": "KB Full Body",
+  "subtitle": "30 min",
   "sections": [
-    {"type": "warmup", "title": "Warm Up", "lines": ["Rowing @5min", "Band pull-apart @20", "Push-up @10"]},
-    {"type": "main", "title": "A - 4 rounds", "lines": ["Incline DB curl @10", "Close-grip push-up @12"]},
-    {"type": "main", "title": "B - 3 rounds", "lines": ["Hammer curl @10", "Overhead DB ext @12"]},
-    {"type": "main", "title": "C - 3 rounds", "lines": ["KB curl-press @8/side", "Bench dip @15"]},
-    {"type": "main", "title": "Finisher - 2x", "lines": ["DB 21s curls @21", "Pushdown @20"]},
-    {"type": "cooldown", "title": "Cool Down", "lines": ["Bicep wall stretch", "Tricep stretch @30s"]}
+    {"type": "warmup", "title": "Warm Up", "lines": ["KB halo @ 8/side", "Goblet squat @ 10"]},
+    {"type": "main", "title": "A - 4 rounds", "lines": ["KB swing @ 15", "Goblet squat @ 10"]},
+    {"type": "main", "title": "B - 3 rounds", "lines": ["Clean + press @ 6/side", "KB row @ 10/side"]},
+    {"type": "main", "title": "C - 3 rounds", "lines": ["Reverse lunge @ 8/side", "Russian twist @ 20"]},
+    {"type": "cooldown", "title": "Cool Down", "lines": ["5 min stretch"]}
   ]
 }
